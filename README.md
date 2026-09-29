@@ -254,4 +254,3 @@ The idea is to show not only <strong>what I build</strong>, but also <strong>wha
 <br><br>
 
 <sub>Built, captured, edited, watched and archived by Vishwas S K.</sub>
-\n</div>\n
