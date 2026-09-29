@@ -177,33 +177,7 @@ I'm less interested in simply making a feature and more interested in understand
 
 ---
 
-## 06 / THE OTHER SIDE
-
-Code isn't the whole story.
-
-### FRAME /
-
-Photography and ordinary moments that looked worth keeping.
-
-### CUT /
-
-Editing, composition, colour, timing and visual storytelling.
-
-### DRIVE /
-
-Automobiles, engineering, racing and machines.
-
-### SCREEN /
-
-Marvel · Science Fiction · F1 & Racing · Kannada Cinema
-
-### LAB /
-
-The place where unfinished ideas, experiments and questionable decisions become projects.
-
----
-
-## 07 / EDUCATION
+## 06 / EDUCATION
 
 🎓 <strong>Engineering Student</strong><br>
 <strong>Rajarajeswari College of Engineering, Bengaluru</strong><br>
@@ -220,7 +194,7 @@ My preferred learning loop:
 
 ---
 
-## 08 / MY DIGITAL ARCHIVE
+## 07 / MY DIGITAL ARCHIVE
 
 ### VISHWAS // THE ARCHIVE
 
@@ -240,7 +214,7 @@ The idea is to show not only <strong>what I build</strong>, but also <strong>wha
 
 ---
 
-## 09 / A FEW THINGS I BELIEVE
+## 08 / A FEW THINGS I BELIEVE
 
 > <strong>A project doesn't have to be revolutionary to be worth building.</strong>
 
@@ -256,7 +230,7 @@ The idea is to show not only <strong>what I build</strong>, but also <strong>wha
 
 ---
 
-## 10 / THE REPOSITORY WALL
+## 09 / THE REPOSITORY WALL
 
 | Repository | What you'll find |
 |---|---|
@@ -280,9 +254,4 @@ The idea is to show not only <strong>what I build</strong>, but also <strong>wha
 <br><br>
 
 <sub>Built, captured, edited, watched and archived by Vishwas S K.</sub>
-
-<br><br>
-
-<strong>CODE · FRAME · CUT · DRIVE · SCREEN · LAB</strong>
-
-</div>
+\n</div>\n
